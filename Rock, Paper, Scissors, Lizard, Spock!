@@ -20,7 +20,7 @@ The rules of rock-paper-scissors-lizard-Spock are:
 The Output:
 In this game, you have 5 variables. When you run your program, you input your variable to the screen. Your python script should randomly generate its own variable without knowing yours. Then the screen should show variables given by you and your program, and decide who wins!
 
-You do not need to write a report for this project. However, you are expected to write explicit comments for each step in your program. You are expected to use (but not limited to) Functions, Conditions, and a Random Number generator. 
+You do not need to write a report for this project. However, you are expected to write explicit comments for each step in your program. You are expected to use (but not limited to) Functions, Conditionals, and a Random Number generator. 
 
 Please submit your code to ying.tang@gordon.edu by 11:59pm on Tuesday 9/16. Late submission will result in a deduction of 50% of your grade. Feel free to post your code to GitHub after the deadline. 
 
