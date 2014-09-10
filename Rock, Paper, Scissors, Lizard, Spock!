@@ -18,7 +18,7 @@ The rules of rock-paper-scissors-lizard-Spock are:
 •	Rock crushes Scissors
 
 
-• In this game, you have 5 variables ("Rock", "Paper", "Lizard", "Scissors" and "Spock"). When you run your program, you input your variable to the screen. Your python script should randomly generate its own variable without knowing yours. Then the screen should show variables given by you and your program, and print out the Winner!
+• In this game, you have 5 variables ("Rock", "Paper", "Lizard", "Scissors" and "Spock"). When you run your program, you input your variable to the screen. Your python script should randomly generate its own variable without knowing yours. Then the screen should print out variables given by you and your program, and announce the Winner!
 
 • If you input a value other than "Rock", "Paper", "Lizard", "Scissors" and "Spock", your program should report the Error message and ask you to play again. 
 
