@@ -1,3 +1,3 @@
-Project1_Lets_Play_a_Game
+Projects
 =================
-A project for students to practice python coding skills. 
+This folder contains all projects in PHY371
